@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>上下展开</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.6">
+        <g id="HC-2" transform="translate(-396, -302)" fill="#775200" fill-rule="nonzero">
+            <g id="上下展开" transform="translate(396, 302)">
+                <rect id="矩形" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12.9,18.5999922 L11.5,19.9999922 L10.0999922,18.5999922 L6,14.5000078 L7.39999219,13.0999922 L11.5,17.2000078 L15.6,13.0999922 L17,14.5000078 L12.9,18.5999922 Z M11.5,7.8 L7.39999219,11.8999922 L6,10.4999922 L10.0999922,6.40000781 L11.5,4.99999219 L12.9,6.40000781 L17,10.4999922 L15.6,11.8999922 L11.5,7.8 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
