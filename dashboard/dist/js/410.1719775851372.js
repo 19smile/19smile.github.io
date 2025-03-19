@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunktenant_portal"]=self["webpackChunktenant_portal"]||[]).push([[410],{410:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var r=function(){var n=this,t=n._self._c;return t("router-view")},u=[],l={name:"centerMain"},a=l,c=e(845),s=(0,c.A)(a,r,u,!1,null,null,null),f=s.exports}}]);

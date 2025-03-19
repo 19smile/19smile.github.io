@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkHR_Dashboard"]=self["webpackChunkHR_Dashboard"]||[]).push([[410],{410:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var u=function(){var n=this,e=n._self._c;return e("router-view")},t=[],a={name:"centerMain"},l=a,s=r(845),c=(0,s.A)(l,u,t,!1,null,null,null),f=c.exports}}]);
